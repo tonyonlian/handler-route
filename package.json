@@ -1,13 +1,12 @@
 {
   "name": "handler-route",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./lib",
-  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "LIGHTAPI",
   "license": "ISC",
   "dependencies": {
     "async": "^2.4.1",

@@ -1,6 +1,6 @@
 {
   "name": "handler-route",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "./lib",
   "scripts": {
